@@ -16,7 +16,7 @@
 
 ## 🧚‍♀️: Project Created & Maintained By -
 
-- **Hey guys, I'm Anushka. Find out more about me** [ here](https://www.linkedin.com/in/rijansbhagat/)
+- **Hey guys, I'm Rijans. Find out more about me** [ here](https://www.linkedin.com/in/rijansbhagat/)
 - **Reach out to me at** [rijans.bhagat003@gmail.com](rijans.bhagat003@gmail.com)
 
 <h3 align="right">Built with :heart: by Rijans Bhagat</h3>
